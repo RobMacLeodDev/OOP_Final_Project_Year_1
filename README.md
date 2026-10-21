@@ -2,6 +2,9 @@
 
 * * *
 
+<img width="539" height="670" alt="Game Screenshot" src="https://github.com/user-attachments/assets/63056395-1b10-44c4-aeb3-2d32c9c49176" />
+
+
 ## The Project
 
 This is a console-based Blackjack game written in Java, a first-year project designed to demonstrate my understanding of Object-Oriented Programming (OOP) concepts.
